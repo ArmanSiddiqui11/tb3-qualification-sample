@@ -1,0 +1,5 @@
+{
+  "synth_top": "pulse_meter_top",
+  "max_cells": 480,
+  "max_ff": 96
+}
